@@ -3,9 +3,9 @@ package selenium
 import (
 	"time"
 
-	"github.com/tebeka/selenium/chrome"
-	"github.com/tebeka/selenium/firefox"
-	"github.com/tebeka/selenium/log"
+	"github.com/hbollon/selenium/chrome"
+	"github.com/hbollon/selenium/firefox"
+	"github.com/hbollon/selenium/log"
 )
 
 // TODO(minusnine): make an enum type called FindMethod.
